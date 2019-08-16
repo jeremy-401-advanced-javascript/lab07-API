@@ -5,8 +5,8 @@
 ### Author: Jeremy
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/jeremy-401-advanced-javascript/lab07-API/pull/1)
+* [travis]([![Build Status](https://www.travis-ci.com/jeremy-401-advanced-javascript/lab07-API.svg?branch=master)](https://www.travis-ci.com/jeremy-401-advanced-javascript/lab07-API))
 
 ### Modules
 #### `modulename.js`
